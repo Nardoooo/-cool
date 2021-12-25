@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="W]E2U()YRd8(Jm/^BBG," x="0" y="0"><statement name="HANDLER"><block type="device_start_melody" id="g[QnL)}RWR^ihRQuEbQJ"><field name="options">MelodyOptions.Forever</field><value name="melody"><block type="device_builtin_melody" id="DXC.wD$:WNnECf4q.B{-"><field name="melody">Melodies.Birthday</field></block></value></block></statement></block><block type="input_logo_event" id="(gJAW4!:307~MeMY5/pW" x="306" y="153"><field name="action">TouchButtonEvent.Pressed</field><statement name="HANDLER"><block type="controls_repeat_ext" id="%:O4Wa)sF@dUoueJz9]%"><value name="TIMES"><shadow type="math_whole_number" id="JdyW:~A8Y987?k%F;(DO"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="basic_show_icon" id="y9*xOSrA6{|F[}`t6GGy"><field name="i">IconNames.Heart</field><next><block type="device_show_leds" id="w0RJbI%XB}bwnlO|]_pS"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="RH.(.G-#Aa+Bfd#5kxbG"><field name="LEDS">`
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="!lI6)Mu4:J3#,oWCf7=w"><field name="LEDS">`
+        # # # # # 
+        # . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="SMU#wmeP;)wcL~M$o[?W"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        # # # # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="8yN0TutO{6ukq]!+/jVO"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="IzITjzF~}HAyckS$B~N4"><field name="LEDS">`
+        # . . . . 
+        # # # # # 
+        # . . . # 
+        # . . . # 
+        # # # # #
+        `</field><next><block type="basic_show_icon" id="LUx$wkvl{+qS[YE+kO_;"><field name="i">IconNames.Heart</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block></xml>
